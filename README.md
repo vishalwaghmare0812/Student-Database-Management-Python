@@ -49,8 +49,10 @@ student-management-system/
 └── README.md
 ```
 
-## Overview
+## 
 
-This project demonstrates CRUD operations, database integration, input validation, and web application development using Flask and SQLite.
+![screenshort]( https://github.com/vishalwaghmare0812/Student-Database-Management-Python/blob/973c02f6e880c05619c6fd257327337d5e8f5590/studDash.png )
 
-**Technologies:** Python | Flask | SQLite
+##
+![screenshort]( https://github.com/vishalwaghmare0812/Student-Database-Management-Python/blob/973c02f6e880c05619c6fd257327337d5e8f5590/studAdd.png )
+
